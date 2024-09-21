@@ -1,0 +1,41 @@
+body {
+    background-color: orange;
+    border-radius: 20px;
+   margin-left: 15%;
+}
+
+.nemo img{
+    border-radius: 20px;
+
+}
+.rb{
+    font-size: 20px;
+    color: aliceblue;
+
+    
+}
+.rb h1{
+    display: inline-block;
+  
+}
+.abc{
+    font-size: 25px;
+    border:  orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20%;
+    color: orangered;
+
+}
+button:hover{
+   background-color: blue;
+
+}
+.index img{
+    margin: 1%;
+    border-radius: 15px;
+}
+h3{
+    font-size: 30px;
+    color: aliceblue;
+}
